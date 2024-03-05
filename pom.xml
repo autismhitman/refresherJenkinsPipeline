@@ -3,4 +3,11 @@
   <groupId>com.neopane</groupId>
   <artifactId>RefresherJenkins</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <build>
+	  
+	  <finalName>RefresherDockerChaps</finalName>
+  </build>
+	  
+	  
 </project>
