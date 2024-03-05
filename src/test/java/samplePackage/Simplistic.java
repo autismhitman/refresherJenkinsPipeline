@@ -13,7 +13,11 @@ public class Simplistic {
 	 logger.debug("Started");
 	 System.out.println("This is first syso");
 	 System.out.println("Adding second syso");
-
+	 System.out.println("Adding third syso");
+	 
+	 
+	 
+	 
 	}
 
 }
